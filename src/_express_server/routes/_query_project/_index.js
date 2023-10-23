@@ -22,4 +22,3 @@ module.exports = {
     else if (projet === undefined) return "project_page/index";
   },
 };
-// || pas de else if et envoyer a la même page tout en envoyant le script à load
